@@ -7,4 +7,5 @@ Help to test your programs output
 \inlcude your cpp files in the Makefile
 \Run make
 \the binary name is "tests"
-  
+
+It include valgrind if you want to write unitest with it
